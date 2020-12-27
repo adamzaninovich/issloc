@@ -11,7 +11,7 @@
 {name,"ISS Loc"}.
 {package_id,{"otpr","issloc",{0,1,0}}}.
 {prefix,"iss"}.
-{repo_url,[]}.
+{repo_url,"https://github.com/adamzaninovich/issloc"}.
 {tags,[]}.
 {type,gui}.
 {ws_url,[]}.
