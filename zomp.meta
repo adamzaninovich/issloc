@@ -1,0 +1,17 @@
+{a_email,"adam.zaninovich@gmail.com"}.
+{author,"Adam Zaninovich"}.
+{c_email,[]}.
+{copyright,[]}.
+{deps,[{"otpr","zj",{1,0,5}}]}.
+{desc,"Displays the location of the ISS"}.
+{file_exts,[]}.
+{key_name,none}.
+{license,"MIT"}.
+{modules,[]}.
+{name,"ISS Loc"}.
+{package_id,{"otpr","issloc",{0,1,0}}}.
+{prefix,"iss"}.
+{repo_url,[]}.
+{tags,[]}.
+{type,gui}.
+{ws_url,[]}.
